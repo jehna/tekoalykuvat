@@ -1,4 +1,3 @@
-
 # Tekoälykuvat
 > DALL·E 2 -tekoälyllä luotuja kuvia kommunikoinnin sekä puheenkehityksen tueksi
 
@@ -9,7 +8,8 @@ avulla luotuja kuvia kommunikoinnin sekä puheenkehityksen tueksi.
 
 Kuvat on tallennettu [Github-palveluun](https://github.com/jehna/tekoalykuvat),
 ja voit ladata kaikki kuvat zip-tiedostona käyttämälä [Download
-ZIP](https://github.com/jehna/tekoalykuvat/archive/refs/heads/main.zip) -painiketta.
+ZIP](https://github.com/jehna/tekoalykuvat/archive/refs/heads/main.zip)
+-painiketta. Kuvat löytyvät `kuvat/` -kansion alta.
 
 ## Sisältö
 
@@ -23,6 +23,12 @@ Työkalun luonteesta johtuen kuvissa saattaa ilmetä joitain virheitä jotka
 ihminen huomaa kun kuvaa tarkastelee läheltä. Kuvat toimivatkin parhaiten
 pienessä koossa näytöllä sekä tulostettuna, jolloin virheet eivät näy niin
 hyvin.
+
+### Miksi kuvissa on värillinen leima oikeassa alakulmassa?
+
+Tämä on DALL·E 2:n ominaisuus, joka on tarkoitettu auttamaan ihmistä
+tunnistamaan että kuva on luotu tietokoneella. Leiman voi poistaa kuvasta
+halutessaan.
 
 ## Käytetyt promptit
 
